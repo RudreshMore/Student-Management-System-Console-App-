@@ -37,7 +37,6 @@ Loops & Conditionals
 
 Methods & Code Reusability
 
-📂 Project Structure
 StudentManagementSystem/
 │
 ├── src/
