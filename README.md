@@ -37,13 +37,7 @@ Loops & Conditionals
 
 Methods & Code Reusability
 
-StudentManagementSystem/
-│
-├── src/
-│   ├── Student.java
-│   ├── StudentManagement.java
-│
-├── README.md
+
 
 📝 How It Works
 
