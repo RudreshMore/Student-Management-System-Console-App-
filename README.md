@@ -1,7 +1,7 @@
 Student Management System (Console App)
 
 A simple Java console-based application to manage student records using OOP, ArrayList, and basic CRUD operations.
-This project is perfect for beginners and ideal for GitHub, resume, and learning core Java fundamentals.
+
 
 🚀 Features
 
